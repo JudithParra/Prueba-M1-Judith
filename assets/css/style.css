@@ -22,9 +22,6 @@ i {
 .card-deck{
     display: inline-block;
 }
-.col {
-    margin: 10px;
-}
 .card {
     background-color:#17a3b8;
     color: white;
