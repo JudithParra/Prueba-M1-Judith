@@ -19,6 +19,7 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   })
 
+/*funcion evento click*/  
 function envia() {
     alert("El correo fue enviado correctamente");
   };
