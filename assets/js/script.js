@@ -1,3 +1,4 @@
+/*evento click- smooth scroll*/
 $(document).ready(function (){
 
     $("a").click(function () {
@@ -13,6 +14,7 @@ $(document).ready(function (){
     }) 
 })
 
+/*función para tooltips*/
 $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   })
