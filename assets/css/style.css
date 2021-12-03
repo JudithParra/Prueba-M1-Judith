@@ -1,0 +1,50 @@
+/*BODY*/
+body {
+    background-color: black;
+    font-family: 'raleway', sans serif;
+    font-weight: 400;
+}
+
+
+/*Bordes de Titulo*/
+hr {
+    border-color: #17a3b8;
+}
+
+
+/* Sección Quiénes somos*/
+i {
+    color: white;
+}
+
+
+/* Sección Destacados*/
+.card-deck{
+    display: inline-block;
+}
+.col {
+    margin: 10px;
+}
+.card {
+    background-color:#17a3b8;
+    color: white;
+}
+
+
+/* Sección Contacto*/
+form {
+    background-color:white;
+    color: black;
+    font-weight: 400;
+}
+ .btn {
+    font-weight: 700;
+    background-color: blue;
+}
+
+
+/* Sección Footer*/
+footer {
+    background-color: #17a3b8;
+    color: white;
+}
