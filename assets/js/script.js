@@ -19,3 +19,6 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   })
 
+function envia() {
+    alert("El correo fue enviado correctamente");
+  };
